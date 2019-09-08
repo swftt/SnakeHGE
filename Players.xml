@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<Players>
+    <Players Nickname="Player1" Score="20" UP="38" RIGHT="39" DOWN="40" LEFT="37" />
+    <Players Nickname="Player1" Score="360" UP="38" RIGHT="39" DOWN="40" LEFT="37" />
+    <Players Nickname="Player1" Score="0" UP="38" RIGHT="39" DOWN="40" LEFT="37" />
+    <Players Nickname="Player1" Score="0" UP="38" RIGHT="39" DOWN="40" LEFT="37" />
+</Players>
